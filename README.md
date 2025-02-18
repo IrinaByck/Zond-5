@@ -16,7 +16,7 @@
 
 [Видео полета](https://drive.google.com/file/d/1w-jnuAk1LpiBNt0zBwkLadOwFmUyCXIy/view?usp=drive_link)
 
-[Модель космического корабля]()
+[Код](https://drive.google.com/file/d/1hdX0oC8jgdA7fdCyw4c83E-oDJSiLClM/view?usp=drive_link)
 
 [Папка проекта на Google Drive](https://drive.google.com/drive/folders/15cKDUxhLH-FcXhZOxcE84WXgKphlh09C?usp=drive_link)
 
