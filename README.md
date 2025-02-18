@@ -10,11 +10,11 @@
 Чуканова Екатерина, М8О-115БВ-24 - лидер команды, программист, математическая модель
 
 # Материалы проекта
-[Отчет](https://docs.google.com/document/d/1Z9aARGlp_zN6sS9hFitqTO5pLWzCs4TINI7EBXn_Aek/edit?tab=t.0)
+[Отчет](https://docs.google.com/document/d/1Di9Ifz8aVOzIUPnki1PmnMP96w4mRnLo/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
 
-[Презентация](https://docs.google.com/presentation/d/1NFik6qne-0-n2HStAmpn6yS4tQTubtP1aurEahsYGUY/edit#slide=id.g3352e78b2a1_0_78)
+[Презентация](https://docs.google.com/presentation/d/1O5MULsmXAj_VR8tFO_fEwPIFn77uXLD1/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
 
-[Видео полета]()
+[Видео полета](https://drive.google.com/file/d/1w-jnuAk1LpiBNt0zBwkLadOwFmUyCXIy/view?usp=drive_link)
 
 [Модель космического корабля]()
 
