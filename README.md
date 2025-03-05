@@ -14,7 +14,7 @@
 
 [Презентация](https://docs.google.com/presentation/d/1O5MULsmXAj_VR8tFO_fEwPIFn77uXLD1/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
 
-[Видео полета](https://drive.google.com/file/d/1HSVtn1qEuZRjYnlkzcuWXUeEAjzJ8ewC/view?usp=drive_link)
+[Видео полета](https://drive.google.com/file/d/11Qo5MVXMJqZoMO0uANRrSLZd9ltYayBK/view?usp=drive_link)
 
 [Код](https://drive.google.com/file/d/1hdX0oC8jgdA7fdCyw4c83E-oDJSiLClM/view?usp=drive_link)
 
