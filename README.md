@@ -10,7 +10,7 @@
 Чуканова Екатерина – тимлид группы, физико-математическая модель 
 
 # Материалы проекта
-[Отчет](https://docs.google.com/presentation/d/1O5MULsmXAj_VR8tFO_fEwPIFn77uXLD1/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
+[Отчет](https://docs.google.com/document/d/1Di9Ifz8aVOzIUPnki1PmnMP96w4mRnLo/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
 
 [Презентация](https://docs.google.com/presentation/d/1O5MULsmXAj_VR8tFO_fEwPIFn77uXLD1/edit?usp=drive_link&ouid=103808460640196347395&rtpof=true&sd=true)
 
