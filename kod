@@ -230,3 +230,4 @@ plt.title('Высота ракеты от времени')
 plt.grid(True)
 plt.legend()
 plt.show()
+
